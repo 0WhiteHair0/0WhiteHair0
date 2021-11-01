@@ -1,0 +1,32 @@
+{
+  
+  "default_prefix": "w",
+    "owners": "681869566208376858",
+    
+
+
+   "guildid": "681869566208376858",
+   "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌",
+ "YOUTUBE_API_KEY": "AIzaSyCH3dcGDmFX9eDo3gLHZ6c5wFpphAOMRfw",
+ "premium": "681869566208376858",
+ "PREFIX": "W",
+ "mongodb": "",
+ "database": "",
+ "BOT_ID": "894429648295960627",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "",
+    "QUEUE_LIMIT": 10,
+    "owners": "834315471507554315",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
+
